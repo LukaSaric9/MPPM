@@ -1,0 +1,1777 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modeldefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|c:\\users\\luka saric\\desktop\\4 godina\\modeli podataka\\modellabsprojekat\\modellabs\\gui\\helper\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\helper\\bindablebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\importer\\importhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\importer\\importhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\importer\\regulationscheduleimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\importer\\regulationscheduleimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\importer\\regulationscheduleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\importer\\regulationscheduleconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\cimadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\cimadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\gda\\genericdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\gda\\genericdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\gda\\resourceiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\gda\\resourceiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\cimconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\cimconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\modelcompare\\cimentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\modelcompare\\cimentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\modelcompare\\cimentitydifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\modelcompare\\cimentitydifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\getextentvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\getextentvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\getrelatedvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\getrelatedvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\viewmodel\\getrelatedvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\viewmodel\\getrelatedvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\model\\propertiesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\model\\propertiesview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\getvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\getvaluesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\commands\\getrelatedvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\commands\\getrelatedvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelresourcesdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\networkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\networkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\viewmodel\\getextentvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\viewmodel\\getextentvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\viewmodel\\getvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\viewmodel\\getvaluesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\commands\\getextentvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\commands\\getextentvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\regulatingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\regulatingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\regulationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\regulationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\model\\propertyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\model\\propertyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\commands\\getvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\commands\\getvaluescommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\modelcodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelcodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\helper\\myicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\helper\\myicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\commands\\importapplyremovedatacommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\commands\\importapplyremovedatacommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\model\\statusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\model\\statusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\loadmodel\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\loadmodel\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\loadmodel\\seasondaytypeschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\loadmodel\\seasondaytypeschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\tapschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\tapschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\wires\\tapchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\wires\\tapchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\networkmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|solutionrelative:networkmodelservice\\networkmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\regularintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\regularintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\basicintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\basicintervalschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\powersystemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\powersystemresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\identifiedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\identifiedobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enumdescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\servicecontracts\\networkmodelquerycontract\\inetworkmodelgdacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|solutionrelative:servicecontracts\\networkmodelquerycontract\\inetworkmodelgdacontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\servicecontracts\\networkmodelquerycontract\\networkmodelgdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B726FB71-D295-41EE-9644-B2B0B1BC8911}|ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAContract.csproj|solutionrelative:servicecontracts\\networkmodelquerycontract\\networkmodelgdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\servicehost\\networkmodelserviceselfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|solutionrelative:networkmodelservice\\servicehost\\networkmodelserviceselfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\transformandloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\transformandloadreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\manager\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\manager\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luka Saric\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\lib\\regulationschedulecimprofile_labs.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\lib\\regulationschedulecimprofile_labs.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\servicehost\\networkmodelserviceselfhost\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E112FFCC-BD88-4056-99E1-0991A0E82588}|NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\NetworkModelServiceSelfHost.csproj|solutionrelative:networkmodelservice\\servicehost\\networkmodelserviceselfhost\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\test\\nmstestclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32EE9373-A350-42AC-972B-41B2EDABA082}|NetworkModelService\\Test\\NMSTestClient\\NMSTestClient.csproj|solutionrelative:networkmodelservice\\test\\nmstestclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC630A2-50D2-4DF5-B4FF-C6E1FABE530E}|NetworkModelService{ABC630A2-50D2-4DF5-B4FF-C6E1FABE530E}|NetworkModelService||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC630A2-50D2-4DF5-B4FF-C6E1FABE530E}|NetworkModelService{ABC630A2-50D2-4DF5-B4FF-C6E1FABE530E}|DataModel||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\core\\conductingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\core\\conductingequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\parser\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\parser\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\xmlparsingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\xmlparsingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\xmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\profileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\profileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\cimmodelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\cimmodelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\helper\\selecteditemsbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\helper\\selecteditemsbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\connection\\gdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\connection\\gdaproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\gui\\view\\getvaluesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B895F838-0C39-47A5-9E12-9D298D06B36A}|GUI\\GUI.csproj|solutionrelative:gui\\view\\getvaluesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\updateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\updateresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\cimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\cimmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\core\\profileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\core\\profileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\predefined\\predefinedclasses.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\predefined\\predefinedclasses.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\propertyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\propertyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\networkmodelservice\\datamodel\\loadmodel\\daytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|solutionrelative:networkmodelservice\\datamodel\\loadmodel\\daytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\resourcedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\resourcedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\versioning\\deltadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\versioning\\deltadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\modelexception\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\modelexception\\modelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\delta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\delta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\comparehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\comparehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\gda\\association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\gda\\association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\core\\profilecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\core\\profilecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\modeldifference\\cimdifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\modeldifference\\cimdifference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimadapter\\manager\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F680D34F-C148-4314-8914-B2DF3E7B17AF}|CIMAdapter\\CIMAdapter.csproj|solutionrelative:cimadapter\\manager\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\common\\trace\\commontrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892CBE15-9ED7-4540-81FA-0EAABA592138}|Common\\Common.csproj|solutionrelative:common\\trace\\commontrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimparser\\model\\builder\\concretemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C03A41C-BE4C-40A8-97D5-5DBAC0C34102}|CIMParser\\CIMParser.csproj|solutionrelative:cimparser\\model\\builder\\concretemodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\profileelementstereotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\profileelementstereotype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\profileelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\profileelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\model\\classcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\model\\classcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\modellabsapp\\modellabsappform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3DD11384-2CC1-4EE9-9F4A-02B6FE8759C0}|ModelLabsApp\\ModelLabsApp.csproj|solutionrelative:modellabsapp\\modellabsappform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\cimprofilecreatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\cimprofilecreatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\cimprofilecreatorform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\cimprofilecreatorform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\cimprofilecreator\\cimprofilecreatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FA2F21-D4DE-4F42-8D8F-AC79993394F6}|CIMProfileCreator\\CIMProfileCreator.csproj|solutionrelative:cimprofilecreator\\cimprofilecreatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE96497-7C11-40B6-AE82-57F956C9F104}|NetworkModelService\\DataModel\\DataModel.csproj|c:\\users\\luka saric\\desktop\\4 godina\\modeli podataka\\modellabsprojekat\\modellabs\\networkmodelservice\\datamodel\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2630D180-1B68-4E84-AEAC-42EE8C88B50F}|NetworkModelService\\NetworkModelService.csproj|c:\\users\\luka saric\\desktop\\4 godina\\modeli podataka\\modellabsprojekat\\modellabs\\networkmodelservice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Resources{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Luka Saric\\Documents\\First.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegulationScheduleConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\RegulationScheduleConverter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Importer\\RegulationScheduleConverter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\RegulationScheduleConverter.cs",
+              "RelativeToolTip": "CIMAdapter\\Importer\\RegulationScheduleConverter.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:51:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegulationScheduleImporter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\RegulationScheduleImporter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Importer\\RegulationScheduleImporter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\RegulationScheduleImporter.cs",
+              "RelativeToolTip": "CIMAdapter\\Importer\\RegulationScheduleImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:55:28.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\ImportHelper.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Importer\\ImportHelper.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Importer\\ImportHelper.cs",
+              "RelativeToolTip": "CIMAdapter\\Importer\\ImportHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwEUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:41:40.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BindableBase.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\BindableBase.cs",
+              "RelativeDocumentMoniker": "GUI\\Helper\\BindableBase.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\BindableBase.cs",
+              "RelativeToolTip": "GUI\\Helper\\BindableBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:36:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelDefines.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeDocumentMoniker": "Common\\ModelDefines.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelDefines.cs",
+              "RelativeToolTip": "Common\\ModelDefines.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:17:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "RelativeToolTip": "NetworkModelService\\GDA\\GenericDataAccess.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAYwL4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:04:39.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourceIterator.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\ResourceIterator.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\GDA\\ResourceIterator.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\GDA\\ResourceIterator.cs",
+              "RelativeToolTip": "NetworkModelService\\GDA\\ResourceIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:05:04.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CIMAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\CIMAdapter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\CIMAdapter.cs",
+              "RelativeToolTip": "CIMAdapter\\CIMAdapter.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:04:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CIMConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMConstants.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\CIMConstants.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMConstants.cs",
+              "RelativeToolTip": "CIMParser\\Model\\CIMConstants.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGEAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:22:10.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CIMEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMEntity.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ModelCompare\\CIMEntity.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMEntity.cs",
+              "RelativeToolTip": "CIMParser\\ModelCompare\\CIMEntity.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:23:38.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CIMEntityDifference.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMEntityDifference.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ModelCompare\\CIMEntityDifference.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelCompare\\CIMEntityDifference.cs",
+              "RelativeToolTip": "CIMParser\\ModelCompare\\CIMEntityDifference.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:23:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetExtentValuesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetExtentValuesView.xaml",
+              "RelativeDocumentMoniker": "GUI\\View\\GetExtentValuesView.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetExtentValuesView.xaml",
+              "RelativeToolTip": "GUI\\View\\GetExtentValuesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T14:19:42.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertiesView.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\PropertiesView.cs",
+              "RelativeDocumentMoniker": "GUI\\Model\\PropertiesView.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\PropertiesView.cs",
+              "RelativeToolTip": "GUI\\Model\\PropertiesView.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:57:50.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetValuesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetValuesView.xaml",
+              "RelativeDocumentMoniker": "GUI\\View\\GetValuesView.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetValuesView.xaml",
+              "RelativeToolTip": "GUI\\View\\GetValuesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T10:04:50.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetRelatedValuesView.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetRelatedValuesView.xaml",
+              "RelativeDocumentMoniker": "GUI\\View\\GetRelatedValuesView.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetRelatedValuesView.xaml",
+              "RelativeToolTip": "GUI\\View\\GetRelatedValuesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T14:19:27.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRelatedValuesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetRelatedValuesViewModel.cs",
+              "RelativeDocumentMoniker": "GUI\\ViewModel\\GetRelatedValuesViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetRelatedValuesViewModel.cs",
+              "RelativeToolTip": "GUI\\ViewModel\\GetRelatedValuesViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAP4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:18:49.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NetworkModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModel.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\NetworkModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModel.cs",
+              "RelativeToolTip": "NetworkModelService\\NetworkModel.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwNAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:05:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetRelatedValuesCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetRelatedValuesCommands.cs",
+              "RelativeDocumentMoniker": "GUI\\Commands\\GetRelatedValuesCommands.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetRelatedValuesCommands.cs",
+              "RelativeToolTip": "GUI\\Commands\\GetRelatedValuesCommands.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:25:46.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelResourcesDesc.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeDocumentMoniker": "Common\\ModelResourcesDesc.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelResourcesDesc.cs",
+              "RelativeToolTip": "Common\\ModelResourcesDesc.cs",
+              "ViewState": "AgIAACYDAAAAAAAAAAAIwDsDAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:40:46.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetExtentValuesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetExtentValuesViewModel.cs",
+              "RelativeDocumentMoniker": "GUI\\ViewModel\\GetExtentValuesViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetExtentValuesViewModel.cs",
+              "RelativeToolTip": "GUI\\ViewModel\\GetExtentValuesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:18:19.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetValuesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetValuesViewModel.cs",
+              "RelativeDocumentMoniker": "GUI\\ViewModel\\GetValuesViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\GetValuesViewModel.cs",
+              "RelativeToolTip": "GUI\\ViewModel\\GetValuesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:05:33.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetExtentValuesCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetExtentValuesCommands.cs",
+              "RelativeDocumentMoniker": "GUI\\Commands\\GetExtentValuesCommands.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetExtentValuesCommands.cs",
+              "RelativeToolTip": "GUI\\Commands\\GetExtentValuesCommands.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:30:06.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Program.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Program.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:29:00.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegulatingControl.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\RegulatingControl.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAL8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:36:59.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegulationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\RegulationSchedule.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:09:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "XMLParsingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\XMLParsingManager.cs",
+              "RelativeDocumentMoniker": "CIMParser\\XMLParsingManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\XMLParsingManager.cs",
+              "RelativeToolTip": "CIMParser\\XMLParsingManager.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:25:15.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "XMLParser.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\XMLParser.cs",
+              "RelativeDocumentMoniker": "CIMParser\\XMLParser.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\XMLParser.cs",
+              "RelativeToolTip": "CIMParser\\XMLParser.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:26:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PropertyView.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\PropertyView.cs",
+              "RelativeDocumentMoniker": "GUI\\Model\\PropertyView.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\PropertyView.cs",
+              "RelativeToolTip": "GUI\\Model\\PropertyView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:56:09.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetValuesCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetValuesCommands.cs",
+              "RelativeDocumentMoniker": "GUI\\Commands\\GetValuesCommands.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\GetValuesCommands.cs",
+              "RelativeToolTip": "GUI\\Commands\\GetValuesCommands.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwBcBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:23:18.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ModelCodeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelCodeHelper.cs",
+              "RelativeDocumentMoniker": "Common\\ModelCodeHelper.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelCodeHelper.cs",
+              "RelativeToolTip": "Common\\ModelCodeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:17:05.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml",
+              "RelativeToolTip": "GUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T19:49:26.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\MyICommand.cs",
+              "RelativeDocumentMoniker": "GUI\\Helper\\MyICommand.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\MyICommand.cs",
+              "RelativeToolTip": "GUI\\Helper\\MyICommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:46:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "GUI\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "GUI\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:49:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "GUI\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "GUI\\ViewModel\\HomeViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:55:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "GUI\\View\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\HomeView.xaml",
+              "RelativeToolTip": "GUI\\View\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T13:51:06.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:49:26.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\packages.config",
+              "RelativeDocumentMoniker": "GUI\\packages.config",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\packages.config",
+              "RelativeToolTip": "GUI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-21T10:09:42.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StatusMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\StatusMessage.cs",
+              "RelativeDocumentMoniker": "GUI\\Model\\StatusMessage.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Model\\StatusMessage.cs",
+              "RelativeToolTip": "GUI\\Model\\StatusMessage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:02:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml",
+              "RelativeDocumentMoniker": "GUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\App.xaml",
+              "RelativeToolTip": "GUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-21T09:10:35.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ImportApplyRemoveDataCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\ImportApplyRemoveDataCommands.cs",
+              "RelativeDocumentMoniker": "GUI\\Commands\\ImportApplyRemoveDataCommands.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Commands\\ImportApplyRemoveDataCommands.cs",
+              "RelativeToolTip": "GUI\\Commands\\ImportApplyRemoveDataCommands.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:21:28.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\View\\HomeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\HomeView.xaml.cs",
+              "RelativeToolTip": "GUI\\View\\HomeView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:01:04.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CIMModelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\CIMModelLoader.cs",
+              "RelativeDocumentMoniker": "CIMParser\\CIMModelLoader.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\CIMModelLoader.cs",
+              "RelativeToolTip": "CIMParser\\CIMModelLoader.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:26:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "XMLParser.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Parser\\XMLParser.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Parser\\XMLParser.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Parser\\XMLParser.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Parser\\XMLParser.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:27:36.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProfileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ProfileLoader.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ProfileLoader.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ProfileLoader.cs",
+              "RelativeToolTip": "CIMParser\\ProfileLoader.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:26:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f696bbaf62e093d640eb06e54cf584f1413a7a3ddc293db43bb5e910722eafa3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:34:17.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RegulationScheduleCIMProfile_Labs.dll",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Lib\\RegulationScheduleCIMProfile_Labs.dll",
+              "RelativeDocumentMoniker": "CIMAdapter\\Lib\\RegulationScheduleCIMProfile_Labs.dll",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Lib\\RegulationScheduleCIMProfile_Labs.dll",
+              "RelativeToolTip": "CIMAdapter\\Lib\\RegulationScheduleCIMProfile_Labs.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-07-20T11:54:08.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\App.config",
+              "RelativeDocumentMoniker": "ModelLabsApp\\App.config",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\App.config",
+              "RelativeToolTip": "ModelLabsApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-20T10:45:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "RelativeDocumentMoniker": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "RelativeToolTip": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\app.config",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-20T11:03:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\Season.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\LoadModel\\Season.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\Season.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\LoadModel\\Season.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:48:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SeasonDayTypeSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\LoadModel\\SeasonDayTypeSchedule.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwGYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:52:09.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TapSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\TapSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\TapSchedule.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\TapSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\TapSchedule.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:32:03.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TapChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\TapChanger.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Wires\\TapChanger.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Wires\\TapChanger.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Wires\\TapChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T13:19:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Container.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\Container.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Container.cs",
+              "RelativeToolTip": "NetworkModelService\\Container.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwIoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:39:54.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Config.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\Config.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Config.cs",
+              "RelativeToolTip": "NetworkModelService\\Config.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:39:52.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NetworkModelService.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\NetworkModelService.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.cs",
+              "RelativeToolTip": "NetworkModelService\\NetworkModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:39:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegularIntervalSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\RegularIntervalSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\RegularIntervalSchedule.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\RegularIntervalSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\RegularIntervalSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T12:21:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BasicIntervalSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\BasicIntervalSchedule.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:52:56.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PowerSystemResource.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\PowerSystemResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:43:15.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IdentifiedObject.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\IdentifiedObject.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:47:55.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:00:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EnumDescs.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeDocumentMoniker": "Common\\EnumDescs.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\EnumDescs.cs",
+              "RelativeToolTip": "Common\\EnumDescs.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:41:13.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "INetworkModelGDAContract.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "RelativeToolTip": "ServiceContracts\\NetworkModelQueryContract\\INetworkModelGDAContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:43:23.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\Terminal.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwIwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:48:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
+              "RelativeDocumentMoniker": "GUI\\App.config",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\App.config",
+              "RelativeToolTip": "GUI\\App.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-20T10:46:33.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "RelativeToolTip": "NetworkModelService\\ServiceHost\\NetworkModelServiceSelfHost\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:40:11.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TransformAndLoadReport.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\TransformAndLoadReport.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\TransformAndLoadReport.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\TransformAndLoadReport.cs",
+              "RelativeToolTip": "CIMAdapter\\TransformAndLoadReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:04:57.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NetworkModelGDAProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "RelativeToolTip": "ServiceContracts\\NetworkModelQueryContract\\NetworkModelGDAProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:43:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProfileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\ProfileManager.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Manager\\ProfileManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\ProfileManager.cs",
+              "RelativeToolTip": "CIMAdapter\\Manager\\ProfileManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:27:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "First.xml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Documents\\First.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\First.xml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Documents\\First.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\First.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-20T10:32:00.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "NetworkModelService",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.csproj",
+              "RelativeDocumentMoniker": "NetworkModelService\\NetworkModelService.csproj",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\NetworkModelService.csproj",
+              "RelativeToolTip": "NetworkModelService\\NetworkModelService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T10:33:48.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DataModel",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\DataModel.csproj",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\DataModel.csproj",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\DataModel.csproj",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\DataModel.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T10:33:40.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\app.config",
+              "RelativeDocumentMoniker": "NetworkModelService\\Test\\NMSTestClient\\app.config",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\Test\\NMSTestClient\\app.config",
+              "RelativeToolTip": "NetworkModelService\\Test\\NMSTestClient\\app.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-20T10:40:29.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ConductingEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\Core\\ConductingEquipment.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwIEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:28:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GDAProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Connection\\GDAProxy.cs",
+              "RelativeDocumentMoniker": "GUI\\Connection\\GDAProxy.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Connection\\GDAProxy.cs",
+              "RelativeToolTip": "GUI\\Connection\\GDAProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:04:41.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "SelectedItemsBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\SelectedItemsBehavior.cs",
+              "RelativeDocumentMoniker": "GUI\\Helper\\SelectedItemsBehavior.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\Helper\\SelectedItemsBehavior.cs",
+              "RelativeToolTip": "GUI\\Helper\\SelectedItemsBehavior.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:15:46.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GetValuesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetValuesView.xaml.cs",
+              "RelativeDocumentMoniker": "GUI\\View\\GetValuesView.xaml.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\GUI\\View\\GetValuesView.xaml.cs",
+              "RelativeToolTip": "GUI\\View\\GetValuesView.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:57:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwEkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:17:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Property.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Property.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Property.cs",
+              "RelativeToolTip": "Common\\GDA\\Property.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:05:35.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "UpdateResult.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\UpdateResult.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\UpdateResult.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\UpdateResult.cs",
+              "RelativeToolTip": "Common\\GDA\\UpdateResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:37:34.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CIMModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMModel.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\CIMModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\CIMModel.cs",
+              "RelativeToolTip": "CIMParser\\Model\\CIMModel.cs",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAuwLACAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:22:12.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ProfileLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Core\\ProfileLoader.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Core\\ProfileLoader.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Core\\ProfileLoader.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Core\\ProfileLoader.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:26:12.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PredefinedClasses.xml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Predefined\\PredefinedClasses.xml",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Predefined\\PredefinedClasses.xml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Predefined\\PredefinedClasses.xml",
+              "RelativeToolTip": "CIMProfileCreator\\Predefined\\PredefinedClasses.xml",
+              "ViewState": "AgIAABsCAAAAAAAAAAD4vzYCAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-07-16T11:28:47.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PropertyValue.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\PropertyValue.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\PropertyValue.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\PropertyValue.cs",
+              "RelativeToolTip": "Common\\GDA\\PropertyValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:21:05.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\Program.cs",
+              "RelativeToolTip": "ModelLabsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:40:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "DayType.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "RelativeDocumentMoniker": "NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "RelativeToolTip": "NetworkModelService\\DataModel\\LoadModel\\DayType.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:33:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ResourceDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\ResourceDescription.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\ResourceDescription.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\ResourceDescription.cs",
+              "RelativeToolTip": "Common\\GDA\\ResourceDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:20:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ModelLabsAppForm.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:18:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DeltaDB.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Versioning\\DeltaDB.cs",
+              "RelativeDocumentMoniker": "Common\\Versioning\\DeltaDB.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Versioning\\DeltaDB.cs",
+              "RelativeToolTip": "Common\\Versioning\\DeltaDB.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:37:15.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ModelException.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelException\\ModelException.cs",
+              "RelativeDocumentMoniker": "Common\\ModelException\\ModelException.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\ModelException\\ModelException.cs",
+              "RelativeToolTip": "Common\\ModelException\\ModelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:37:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Delta.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Delta.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Delta.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Delta.cs",
+              "RelativeToolTip": "Common\\GDA\\Delta.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowKoBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:05:28.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CompareHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\CompareHelper.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\CompareHelper.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\CompareHelper.cs",
+              "RelativeToolTip": "Common\\GDA\\CompareHelper.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:39:45.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Association.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Association.cs",
+              "RelativeDocumentMoniker": "Common\\GDA\\Association.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\GDA\\Association.cs",
+              "RelativeToolTip": "Common\\GDA\\Association.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:04:42.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ProfileCreator.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Core\\ProfileCreator.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Core\\ProfileCreator.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Core\\ProfileCreator.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Core\\ProfileCreator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:26:04.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "CIMDifference.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelDifference\\CIMDifference.cs",
+              "RelativeDocumentMoniker": "CIMParser\\ModelDifference\\CIMDifference.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\ModelDifference\\CIMDifference.cs",
+              "RelativeToolTip": "CIMParser\\ModelDifference\\CIMDifference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:23:49.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Class.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Class.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Class.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:25.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Profile.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\Profile.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Profile.cs",
+              "RelativeToolTip": "CIMParser\\Model\\Profile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:27:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\LogManager.cs",
+              "RelativeDocumentMoniker": "CIMAdapter\\Manager\\LogManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMAdapter\\Manager\\LogManager.cs",
+              "RelativeToolTip": "CIMAdapter\\Manager\\LogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T12:42:38.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CommonTrace.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Trace\\CommonTrace.cs",
+              "RelativeDocumentMoniker": "Common\\Trace\\CommonTrace.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\Common\\Trace\\CommonTrace.cs",
+              "RelativeToolTip": "Common\\Trace\\CommonTrace.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:37:23.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ConcreteModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "RelativeDocumentMoniker": "CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "RelativeToolTip": "CIMParser\\Model\\Builder\\ConcreteModelBuilder.cs",
+              "ViewState": "AgIAAPMCAAAAAAAAAAAAwAUDAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:05:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Property.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Property.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Property.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:56.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ProfileElementStereotype.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ProfileElementStereotype.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\ProfileElementStereotype.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ProfileElementStereotype.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\ProfileElementStereotype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:53.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ProfileElement.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ProfileElement.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\ProfileElement.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ProfileElement.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\ProfileElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:50.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Profile.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\Profile.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\Profile.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:47.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ClassCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ClassCategory.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\Model\\ClassCategory.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\Model\\ClassCategory.cs",
+              "RelativeToolTip": "CIMProfileCreator\\Model\\ClassCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:42:42.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ModelLabsAppForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv+cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:39:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ModelLabsAppForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.cs [Design]",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:39:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ModelLabsAppForm.resx",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.resx",
+              "RelativeDocumentMoniker": "ModelLabsApp\\ModelLabsAppForm.resx",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\ModelLabsApp\\ModelLabsAppForm.resx",
+              "RelativeToolTip": "ModelLabsApp\\ModelLabsAppForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-12T11:40:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "CIMProfileCreatorForm.resx",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.resx",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\CIMProfileCreatorForm.resx",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.resx",
+              "RelativeToolTip": "CIMProfileCreator\\CIMProfileCreatorForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-12T11:32:45.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "CIMProfileCreatorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.Designer.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\CIMProfileCreatorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.Designer.cs",
+              "RelativeToolTip": "CIMProfileCreator\\CIMProfileCreatorForm.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:29:45.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "CIMProfileCreatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.cs",
+              "RelativeDocumentMoniker": "CIMProfileCreator\\CIMProfileCreatorForm.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\4 godina\\Modeli Podataka\\ModelLabsProjekat\\ModelLabs\\CIMProfileCreator\\CIMProfileCreatorForm.cs [Design]",
+              "RelativeToolTip": "CIMProfileCreator\\CIMProfileCreatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:27:44.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

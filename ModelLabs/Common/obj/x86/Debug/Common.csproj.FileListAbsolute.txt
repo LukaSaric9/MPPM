@@ -1,0 +1,6 @@
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb

@@ -1,0 +1,7 @@
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkM.BEDDB4BB.Up2Date
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

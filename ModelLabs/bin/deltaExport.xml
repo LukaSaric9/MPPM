@@ -1,0 +1,146 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="15">
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="CONDEQUIPMENT" />
+          <Properties>
+            <Property id="EQUIPMENT_AGG" value="0" />
+            <Property id="EQUIPMENT_NIS" value="1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONDEQ" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONDEQ" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONDEQ" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="REGCONTROL" />
+          <Properties>
+            <Property id="REG_CONTROL_DISCRETE" value="0" />
+            <Property id="REG_CONTROL_MODE" value="voltage" />
+            <Property id="REG_CONTROL_MONITPHASE" value="A" />
+            <Property id="REG_CONTROL_TARGETR" value="100" />
+            <Property id="REG_CONTROL_TARGETV" value="100" />
+            <Property id="REG_CONTROL_TERMINAL" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="REGCONTROL" />
+          <Properties>
+            <Property id="REG_CONTROL_DISCRETE" value="0" />
+            <Property id="REG_CONTROL_MODE" value="temperature" />
+            <Property id="REG_CONTROL_MONITPHASE" value="A" />
+            <Property id="REG_CONTROL_TARGETR" value="20" />
+            <Property id="REG_CONTROL_TARGETV" value="30" />
+            <Property id="REG_CONTROL_TERMINAL" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="REGCONTROL" />
+          <Properties>
+            <Property id="REG_CONTROL_DISCRETE" value="0" />
+            <Property id="REG_CONTROL_MODE" value="activePower" />
+            <Property id="REG_CONTROL_MONITPHASE" value="ABC" />
+            <Property id="REG_CONTROL_TARGETR" value="200" />
+            <Property id="REG_CONTROL_TARGETV" value="500" />
+            <Property id="REG_CONTROL_TERMINAL" value="0x00000001fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="TAPCHANGER" />
+          <Properties />
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="DAYTYPE" />
+          <Properties />
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SEASON" />
+          <Properties>
+            <Property id="SEASON_STARTDATE" value="638861112000000000" />
+            <Property id="SEASON_ENDDATE" value="638941464000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007ffffffff" type="TAPSCHEDULE" />
+          <Properties>
+            <Property id="BASINT_SCHEDULE_STIME" value="638861112000000000" />
+            <Property id="BASINT_SCHEDULE_V1MULT" value="none" />
+            <Property id="BASINT_SCHEDULE_V1UNIT" value="none" />
+            <Property id="BASINT_SCHEDULE_V2MULT" value="M" />
+            <Property id="BASINT_SCHEDULE_V2UNIT" value="W" />
+            <Property id="SEASONDT_SCHEDULE_DT" value="0x00000003ffffffff" />
+            <Property id="SEASONDT_SCHEDULE_SE" value="0x00000005ffffffff" />
+            <Property id="TAPSCHEDULE_TC" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000007fffffffe" type="TAPSCHEDULE" />
+          <Properties>
+            <Property id="BASINT_SCHEDULE_STIME" value="638861112000000000" />
+            <Property id="BASINT_SCHEDULE_V1MULT" value="none" />
+            <Property id="BASINT_SCHEDULE_V1UNIT" value="none" />
+            <Property id="BASINT_SCHEDULE_V2MULT" value="k" />
+            <Property id="BASINT_SCHEDULE_V2UNIT" value="Pa" />
+            <Property id="SEASONDT_SCHEDULE_DT" value="0x00000003ffffffff" />
+            <Property id="SEASONDT_SCHEDULE_SE" value="0x00000005ffffffff" />
+            <Property id="TAPSCHEDULE_TC" value="0x00000006ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000008ffffffff" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="BASINT_SCHEDULE_STIME" value="638861112000000000" />
+            <Property id="BASINT_SCHEDULE_V1MULT" value="none" />
+            <Property id="BASINT_SCHEDULE_V1UNIT" value="deg" />
+            <Property id="BASINT_SCHEDULE_V2MULT" value="G" />
+            <Property id="BASINT_SCHEDULE_V2UNIT" value="W" />
+            <Property id="SEASONDT_SCHEDULE_DT" value="0x00000003ffffffff" />
+            <Property id="SEASONDT_SCHEDULE_SE" value="0x00000005ffffffff" />
+            <Property id="REG_SCHEDULE_RC" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000008fffffffe" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="BASINT_SCHEDULE_STIME" value="638861112000000000" />
+            <Property id="BASINT_SCHEDULE_V1MULT" value="M" />
+            <Property id="BASINT_SCHEDULE_V1UNIT" value="N" />
+            <Property id="BASINT_SCHEDULE_V2MULT" value="M" />
+            <Property id="BASINT_SCHEDULE_V2UNIT" value="Hz" />
+            <Property id="SEASONDT_SCHEDULE_DT" value="0x00000003ffffffff" />
+            <Property id="SEASONDT_SCHEDULE_SE" value="0x00000005ffffffff" />
+            <Property id="REG_SCHEDULE_RC" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000008fffffffd" type="REGULATIONSCHEDULE" />
+          <Properties>
+            <Property id="BASINT_SCHEDULE_STIME" value="638861112000000000" />
+            <Property id="BASINT_SCHEDULE_V1MULT" value="M" />
+            <Property id="BASINT_SCHEDULE_V1UNIT" value="J" />
+            <Property id="BASINT_SCHEDULE_V2MULT" value="k" />
+            <Property id="BASINT_SCHEDULE_V2UNIT" value="A" />
+            <Property id="SEASONDT_SCHEDULE_DT" value="0x00000003ffffffff" />
+            <Property id="SEASONDT_SCHEDULE_SE" value="0x00000005ffffffff" />
+            <Property id="REG_SCHEDULE_RC" value="0x00000002fffffffd" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

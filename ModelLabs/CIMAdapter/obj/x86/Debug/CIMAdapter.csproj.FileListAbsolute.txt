@@ -1,0 +1,7 @@
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.AssemblyReference.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.Up2Date
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

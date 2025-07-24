@@ -1,0 +1,7 @@
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.DataModel.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\bin\FTN.DataModel.pdb
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.AssemblyReference.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\DataModel.csproj.Up2Date
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.dll
+C:\Users\Luka Saric\Desktop\4 godina\Modeli Podataka\ModelLabsProjekat\ModelLabs\NetworkModelService\DataModel\obj\x86\Debug\FTN.DataModel.pdb
